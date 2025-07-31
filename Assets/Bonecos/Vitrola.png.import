@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bpguh35hg5tp7"
-path="res://.godot/imported/11599808.jpg-8e8e26521bb221dd38497b71e3b0d0ca.ctex"
+uid="uid://de1cukvcx8pb2"
+path="res://.godot/imported/Vitrola.png-aeb0c57824b8d67689dad90333453896.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Bonecos/11599808.jpg"
-dest_files=["res://.godot/imported/11599808.jpg-8e8e26521bb221dd38497b71e3b0d0ca.ctex"]
+source_file="res://Assets/Bonecos/Vitrola.png"
+dest_files=["res://.godot/imported/Vitrola.png-aeb0c57824b8d67689dad90333453896.ctex"]
 
 [params]
 

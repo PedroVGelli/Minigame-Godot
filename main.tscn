@@ -1,11 +1,11 @@
 [gd_scene load_steps=10 format=3 uid="uid://cjq48saf4fkmk"]
 
+[ext_resource type="Texture2D" uid="uid://dy6uxe20y03uu" path="res://Assets/Bonecos/Cazumbá.png" id="1_8niev"]
 [ext_resource type="Script" path="res://object_1.gd" id="1_n2xsb"]
-[ext_resource type="Texture2D" uid="uid://bcfx25l57w6bp" path="res://Assets/Bonecos/Personagem-Ansiedade-Divertidamente-2-PNG-1188x1536.png" id="1_v0300"]
 [ext_resource type="Script" path="res://object_2.gd" id="2_mmwfu"]
 [ext_resource type="Script" path="res://object_3.gd" id="3_ant2b"]
-[ext_resource type="Texture2D" uid="uid://cwy1dw7p5cwtj" path="res://Assets/Bonecos/Personagem-Tristeza-Divertidamente-2-PNG.png" id="3_mtmmx"]
-[ext_resource type="Texture2D" uid="uid://cpwiksb521st6" path="res://Assets/Bonecos/Raiva-Divertidamente-2-PNG-768x769.png" id="5_tkn8w"]
+[ext_resource type="Texture2D" uid="uid://chgoxsk6yfsu2" path="res://Assets/Bonecos/Boina.png" id="3_jgcsn"]
+[ext_resource type="Texture2D" uid="uid://ckniyklqmwik" path="res://Assets/Bonecos/Badalo.png" id="5_gt7ck"]
 [ext_resource type="Script" path="res://button.gd" id="7_14rsb"]
 [ext_resource type="AudioStream" uid="uid://bqmpwnrvel8dp" path="res://Assets/Sons/wrong_sound.mp3" id="8_bwsjx"]
 [ext_resource type="AudioStream" uid="uid://d1lke0rf0uvy7" path="res://Assets/Sons/correct_sound.mp3" id="9_2dpol"]
@@ -15,32 +15,32 @@
 [node name="Sprite2D" type="Sprite2D" parent="."]
 
 [node name="Object1" type="TextureButton" parent="."]
-offset_left = 180.0
-offset_top = 119.0
-offset_right = 1368.0
-offset_bottom = 1655.0
-scale = Vector2(0.1, 0.1)
-texture_normal = ExtResource("1_v0300")
+offset_left = 115.0
+offset_top = 129.0
+offset_right = 1303.0
+offset_bottom = 1665.0
+scale = Vector2(0.2, 0.2)
+texture_normal = ExtResource("1_8niev")
 stretch_mode = 0
 script = ExtResource("1_n2xsb")
 
 [node name="Object2" type="TextureButton" parent="."]
 offset_left = 725.0
 offset_top = 185.0
-offset_right = 1729.0
-offset_bottom = 1435.0
-scale = Vector2(0.1, 0.1)
-texture_normal = ExtResource("3_mtmmx")
+offset_right = 1163.0
+offset_bottom = 493.0
+scale = Vector2(0.6, 0.6)
+texture_normal = ExtResource("3_jgcsn")
 script = ExtResource("2_mmwfu")
 is_correct_object = true
 
 [node name="Object3" type="TextureButton" parent="."]
-offset_left = 440.0
-offset_top = 262.0
-offset_right = 1220.0
-offset_bottom = 1052.0
-scale = Vector2(0.1, 0.1)
-texture_normal = ExtResource("5_tkn8w")
+offset_left = 441.0
+offset_top = 200.0
+offset_right = 801.0
+offset_bottom = 561.0
+scale = Vector2(0.5, 0.5)
+texture_normal = ExtResource("5_gt7ck")
 script = ExtResource("3_ant2b")
 
 [node name="InfoCard" type="Panel" parent="."]

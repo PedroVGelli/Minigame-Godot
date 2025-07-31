@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cwy1dw7p5cwtj"
-path="res://.godot/imported/Personagem-Tristeza-Divertidamente-2-PNG.png-c980259499a8effd13fec87063539dad.ctex"
+uid="uid://ch8xtuk6wx1i6"
+path="res://.godot/imported/Tambor.png-d2c96d66fe7669b628ccce5e570b4762.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Bonecos/Personagem-Tristeza-Divertidamente-2-PNG.png"
-dest_files=["res://.godot/imported/Personagem-Tristeza-Divertidamente-2-PNG.png-c980259499a8effd13fec87063539dad.ctex"]
+source_file="res://Assets/Bonecos/Tambor.png"
+dest_files=["res://.godot/imported/Tambor.png-d2c96d66fe7669b628ccce5e570b4762.ctex"]
 
 [params]
 

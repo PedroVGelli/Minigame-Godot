@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bcfx25l57w6bp"
-path="res://.godot/imported/Personagem-Ansiedade-Divertidamente-2-PNG-1188x1536.png-c0ada99b2be703f92022942def2a62fa.ctex"
+uid="uid://c5pnau6kgu22o"
+path="res://.godot/imported/Matraca.png-8be5dafadaf8bc20e6b327177c9f8d96.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Bonecos/Personagem-Ansiedade-Divertidamente-2-PNG-1188x1536.png"
-dest_files=["res://.godot/imported/Personagem-Ansiedade-Divertidamente-2-PNG-1188x1536.png-c0ada99b2be703f92022942def2a62fa.ctex"]
+source_file="res://Assets/Bonecos/Matraca.png"
+dest_files=["res://.godot/imported/Matraca.png-8be5dafadaf8bc20e6b327177c9f8d96.ctex"]
 
 [params]
 
